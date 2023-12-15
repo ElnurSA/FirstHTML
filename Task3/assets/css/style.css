@@ -1,0 +1,46 @@
+body{   
+    background-color: gainsboro;
+}
+
+
+.login-form{
+    background-color: white;
+    height: 400px;
+    width: 600px;
+    border-radius: 10px;
+    margin-left: 430px;
+    margin-top: 50px;
+}
+
+.login-form h1{
+    margin-left: 200px;
+}
+
+.login-input{
+    margin-left: 20px;
+    font-size: 25px;
+    width: 100px;
+}
+
+.email-box{
+    width: 550px;
+}
+
+.password-box{
+    width: 550px;
+}
+
+.login-button{
+    background-color: green;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    min-height: 40px;
+    min-width: 120px;
+    margin-left: 240px;
+    margin-top: 10px;
+}
+
+.phrase{
+    margin-left: 450px;
+}

@@ -1,0 +1,42 @@
+#title{
+    background-color: chocolate;
+    height: 300px;
+    margin: -20px;
+}
+.text{
+    padding-left: 350px;
+    padding-top: 65px;
+    font-size: 40px;
+}
+
+#navbar{
+    background-color: burlywood;
+    height: 500px;
+    margin: -20px;
+}
+
+#home-info-contact-hubpages ul{
+    list-style: none;
+    display: flex;
+    margin-left: 400px;
+    
+}
+
+#home-info-contact-hubpages ul li{
+    margin-left:  50px;
+    
+}
+#home-info-contact-hubpages ul li a{    
+    color: green;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+.title-text{
+    padding-left: 20px;
+}
+
+.info{
+    padding-left: 20px;
+}
